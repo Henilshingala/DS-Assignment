@@ -13,9 +13,3 @@ This folder contains 11 C++ solution files:
 9. LeetCode 20 - Valid Parentheses
 10. LeetCode 496 - Next Greater Element I
 11. GFG - Next Greater Element
-
-The Next Greater Element problem is provided separately for LeetCode and GFG because their function signatures and input/output requirements differ.
-
-For linked-list problems, LeetCode supplies the `ListNode` definition. Submit those class methods in the LeetCode editor where that definition is already available.
-
-These are platform submission snippets, not standalone programs with `main()`.
